@@ -3,7 +3,7 @@ name: design-integrity-check
 description: Evaluate whether all elements of a design speak the same language—the same grammar of form, pattern, and detail—and recommend corrections to achieve unity.
 license: MIT
 metadata:
-  version: 1.0.3815
+  version: 1.0.3816
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
